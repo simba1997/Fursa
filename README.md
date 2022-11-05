@@ -7,10 +7,10 @@
 
 # How to Run the script? 
 1- Download/clone this repository.
-2-you should see a file called "Assignment1.sh". 
-3- run this script file using the command "./assignment1.sh".
-4-The prompt will ask you to choose the number of the question you want to test.
-5-please choose a number between 1-3 to test the questions above, or write "4" to exit. 
+2-you should see a file called "Assignment1.sh". **Enter**
+3- run this script file using the command "./assignment1.sh". **Enter**
+4-The prompt will ask you to choose the number of the question you want to test. **Enter**
+5-please choose a number between 1-3 to test the questions above, or write "4" to exit.  **Enter**
 
 
 ### THANKS
