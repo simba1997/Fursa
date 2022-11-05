@@ -1,6 +1,6 @@
 # Fursa
 # Fursa first Assignment 
-## Here are the question : 
+## Here are the questions: 
 ### 1-Write a bash script that collects two numbers from the user and then prints a message if these two numbers are smaller or greater than 100.
 ### 2-Write a bash script that reads a temperature in Fahrenheit and converts it to Celcius
 ### 3-please write a script that finds the largest 10 files in a directory.
