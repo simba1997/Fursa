@@ -6,7 +6,7 @@
 ### 3-please write a script that finds the largest 10 files in a directory.
 
 # How to Run the script? 
-1- Download/clone this repository.
+1- Download/clone this repository. <br />
 2-you should see a file called "Assignment1.sh". <br />
 3- run this script file using the command "./assignment1.sh". <br />
 4-The prompt will ask you to choose the number of the question you want to test. <br />
