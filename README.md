@@ -7,8 +7,8 @@
 
 # How to Run the script? 
 1- Download/clone this repository. <br />
-2-you should see a file called "Assignment1.sh". <br />
-3- run this script file using the command "./assignment1.sh". <br />
+2-you should see a DIRECTORY called "Assignment1". <br />
+3- run this script file using the command "Assignment1/./assignment1.sh". <br />
 4-The prompt will ask you to choose the number of the question you want to test. <br />
 5-please choose a number between 1-3 to test the questions above, or write "4" to exit. <br />
 
